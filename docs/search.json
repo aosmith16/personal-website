@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-19T16:10:03-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Ariel Muldoon",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Ariel Muldoon\r\n          \r\n          \r\n          Hello\r\n          Publications\r\n          Teaching\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ariel Muldoon\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n            This is my new website.\r\n            \r\n            I hope you like it.\r\n            \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ariel Muldoon\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n              This is my new website.\r\n              \r\n              I hope you like it.\r\n              \r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-03-19T16:10:03-07:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Ariel Muldoon",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Ariel Muldoon\r\n          \r\n          \r\n          Hello\r\n          Publications\r\n          Teaching\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ariel Muldoon\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              Ariel Muldoon\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-03-19T16:15:52-07:00"
+    },
+    {
+      "path": "teaching.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-03-19T16:10:04-07:00"
+    }
+  ],
+  "collections": []
+}

@@ -12,21 +12,8 @@ links:
     url: "mailto:ariel.muldoon@gmail.com"
 output:
   postcards::jolla
-site: distill::distill_website
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
-
-```
-
-Welcome to my *new* website.
-
-See my CV for more info:  
-[CV](https://ariel.rbind.io/files/acm_resume.html)
+ 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.

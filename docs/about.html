@@ -2407,7 +2407,17 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <div class="nav-right">
 <a href="index.html">Hello</a>
 <a href="about.html">Publications</a>
-<a href="teaching.html">Teaching</a>
+<div class="nav-dropdown">
+<button class="nav-dropbtn">
+Teaching
+ 
+<span class="down-arrow">&#x25BE;</span>
+</button>
+<div class="nav-dropdown-content">
+<a href="articles/article1.html">First article</a>
+<a href="articles/article2.html">Second article</a>
+</div>
+</div>
 <a href="https://github.com/aosmith16/personal-website">
 <i class="fab fa-github" aria-hidden="true"></i>
 </a>
@@ -2428,6 +2438,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<h2 id="current-publications">Current publications</h2>
+<ul>
+<li><p><a href="articles/article1.html">Consequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A</a></p></li>
+<li><p><a href="articles/article2.html">Another article</a></p></li>
+</ul>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

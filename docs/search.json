@@ -5,15 +5,15 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\r\nCurrent publications\r\nConsequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A\r\nAnother article\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-24T09:03:51-07:00"
+      "contents": "\r\nCurrent publications\r\nConsequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A\r\nAnother article\r\nCurrent publications\r\nConsequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A\r\nAnother article\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-04-06T15:01:24-07:00"
     },
     {
       "path": "index.html",
       "title": "Ariel Muldoon",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          Ariel Muldoon\r\n          \r\n          \r\n          Hello\r\n          Publications\r\n          \r\n          \r\n          Teaching\r\n           \r\n          ▾\r\n          \r\n          \r\n          First article\r\n          Second article\r\n          \r\n          \r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Ariel Muldoon\r\n          \r\n          \r\n            \r\n              Welcome to my new website.\r\n              See my CV for more info:CV\r\n            \r\n            \r\n              Welcome to my new website.\r\n              See my CV for more info:CV\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                                \r\n                  \r\n                    \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2021-03-24T09:03:51-07:00"
+      "last_modified": "2021-04-06T15:01:24-07:00"
     },
     {
       "path": "teaching.html",
@@ -27,7 +27,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-03-24T09:03:52-07:00"
+      "last_modified": "2021-04-06T15:01:25-07:00"
     }
   ],
   "collections": []

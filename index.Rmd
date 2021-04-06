@@ -2,13 +2,13 @@
 title: "Ariel Muldoon"
 image: "images/ao_small.png"
 links:
-  - label: '`r fontawesome::fa("linkedin", height = 25)`'
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
     url: "https://www.linkedin.com/in/arielmuldoon/"
-  - label: '`r fontawesome::fa("twitter", height = 25)`'
+  - label: '`r fontawesome::fa("twitter", height = "25px")`'
     url: "https://twitter.com/aosmith16"
-  - label: '`r fontawesome::fa("github", height = 25)`'
+  - label: '`r fontawesome::fa("github", height = "25px")`'
     url: "https://github.com/aosmith16"
-  - label: '`r fontawesome::fa("envelope", height = 25)`'
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
     url: "mailto:ariel.muldoon@gmail.com"
 output:
   postcards::jolla

@@ -13,3 +13,7 @@ knitr::opts_chunk$set(echo = FALSE)
 - [Consequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A](articles/article1.html)
 
 - [Another article](articles/article2.html)
+
+## Current publications
+- [Consequences of reduced light for flower production in conifer-invaded meadows of the Pacific Northwest, U.S.A](articles/article1.html)
+- [Another article](articles/article2.html)
